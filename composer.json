@@ -1,0 +1,8 @@
+{
+	"name":"wdev/api-weather",
+	"autoload":{
+		"psr-4":{
+			"App\\":"app/"
+		}
+	}
+}
